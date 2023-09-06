@@ -2,17 +2,21 @@
 
 ### Logo, including "Ocean"
 
-<img src="logo.png" width="90" />
+<img src="logo-ocean-predictoor-white-bk.png" width="90" />
 
-<img src="logo-white.png" width="90" />
+<img src="logo-ocean-predictoor-black-bk.png" width="90" />
 
 ### Logo, without "Ocean"
 
+<img src="logo-predictoor-white-bk.png" width="90" />
+
+<img src="logo-predictoor-black-bk.png" width="90" />
+
 ### Favicon
 
-<img src="favicon-black.png" width="90" />
+<img src="favicon-predictoor-white-bk.png" width="90" />
 
-<img src="favicon-white.png" width="90" />
+<img src="favicon-predictoor-black-bk.png" width="90" />
 
 ### Gslides versions
 
