@@ -1,6 +1,6 @@
 # Ocean Predictoor Logos
 
-### Logo with "Ocean"
+## Logo with "Ocean"
 
 Png, white bk
 
@@ -18,7 +18,7 @@ Svg, white bk
 
 <img src="logo-ocean-predictoor-white-bk.svg" width="300" />
 
-# Logo without "Ocean"
+## Logo without "Ocean"
 
 Png, white bk 
 
@@ -36,7 +36,7 @@ Svg, white bk
 
 <img src="logo-predictoor-white-bk.svg" width="300" />
 
-### Favicon
+## Favicon
 
 Png, white bk
 
@@ -54,7 +54,7 @@ Png, transparent bk
 
 <img src="favicon-predictoor-white-bk.svg" width="90" />
 
-### Gslides versions
+## Gslides versions
 
 [Here](https://docs.google.com/presentation/d/18D5b16p9re0g-IyZ5h0Db3Qb9zcLcmJGg4NwalN2h3g/edit#slide=id.g20f5357f625_0_1666)
 
