@@ -1,22 +1,30 @@
 # Ocean Predictoor Logos
 
-### Logo, including "Ocean"
+### Png Logo, including "Ocean"
 
 <img src="logo-ocean-predictoor-white-bk.png" width="300" />
 
 <img src="logo-ocean-predictoor-black-bk.png" width="300" />
 
-### Logo, without "Ocean"
+### Png Logo, without "Ocean"
 
 <img src="logo-predictoor-white-bk.png" width="300" />
 
 <img src="logo-predictoor-black-bk.png" width="300" />
 
-### Favicon
+### Png Favicon
 
 <img src="favicon-predictoor-white-bk.png" width="90" />
 
 <img src="favicon-predictoor-black-bk.png" width="90" />
+
+### SVG versions
+
+<img src="logo-ocean-predictoor.svg" width="300" />
+
+<img src="logo-predictoor.svg" width="300" />
+
+<img src="favicon-predictoor.svg" width="90" />
 
 ### Gslides versions
 
