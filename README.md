@@ -2,15 +2,15 @@
 
 ### Logo, including "Ocean"
 
-<img src="logo-ocean-predictoor-white-bk.png" width="90" />
+<img src"logo-ocean-predictoor-white-bk.png" width="300" />
 
-<img src="logo-ocean-predictoor-black-bk.png" width="90" />
+<img src="logo-ocean-predictoor-black-bk.png" width="300" />
 
 ### Logo, without "Ocean"
 
-<img src="logo-predictoor-white-bk.png" width="90" />
+<img src="logo-predictoor-white-bk.png" width="300" />
 
-<img src="logo-predictoor-black-bk.png" width="90" />
+<img src="logo-predictoor-black-bk.png" width="300" />
 
 ### Favicon
 
