@@ -22,7 +22,7 @@
 
 <img src="logo-ocean-predictoor-white-bk.svg" width="300" />
 
-<img src="logo-predictoor.svg-white-bk" width="300" />
+<img src="logo-predictoor-white-bk.svg" width="300" />
 
 <img src="favicon-predictoor-white-bk.svg" width="90" />
 
