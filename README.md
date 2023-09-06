@@ -20,11 +20,11 @@
 
 ### SVG versions
 
-<img src="logo-ocean-predictoor.svg" width="300" />
+<img src="logo-ocean-predictoor-white-bk.svg" width="300" />
 
-<img src="logo-predictoor.svg" width="300" />
+<img src="logo-predictoor.svg-white-bk" width="300" />
 
-<img src="favicon-predictoor.svg" width="90" />
+<img src="favicon-predictoor-white-bk.svg" width="90" />
 
 ### Gslides versions
 
