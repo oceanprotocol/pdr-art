@@ -1,34 +1,56 @@
 # Ocean Predictoor Logos
 
-### Png Logo, including "Ocean"
+### Logo with "Ocean"
+
+Png, white bk
 
 <img src="logo-ocean-predictoor-white-bk.png" width="300" />
 
+Png, black bk
+
 <img src="logo-ocean-predictoor-black-bk.png" width="300" />
+
+Png, transparent bk
 
 <img src="logo-ocean-predictoor.png" width="300" />
 
-### Png Logo, without "Ocean"
-
-<img src="logo-predictoor-white-bk.png" width="300" />
-
-<img src="logo-predictoor-black-bk.png" width="300" />
-
-<img src="logo-predictoor.png" width="300" />
-
-### Png Favicon
-
-<img src="favicon-predictoor-white-bk.png" width="90" />
-
-<img src="favicon-predictoor-black-bk.png" width="90" />
-
-<img src="favicon-predictoor.png" width="90" />
-
-### SVG versions
+Svg, white bk
 
 <img src="logo-ocean-predictoor-white-bk.svg" width="300" />
 
+# Logo without "Ocean"
+
+Png, white bk 
+
+<img src="logo-predictoor-white-bk.png" width="300" />
+
+Png, black bk
+
+<img src="logo-predictoor-black-bk.png" width="300" />
+
+Png, transparent bk
+
+<img src="logo-predictoor.png" width="300" />
+
+Svg, white bk
+
 <img src="logo-predictoor-white-bk.svg" width="300" />
+
+### Favicon
+
+Png, white bk
+
+<img src="favicon-predictoor-white-bk.png" width="90" />
+
+Png, black bk
+
+<img src="favicon-predictoor-black-bk.png" width="90" />
+
+Png, transparent bk
+
+<img src="favicon-predictoor.png" width="90" />
+
+Png, transparent bk
 
 <img src="favicon-predictoor-white-bk.svg" width="90" />
 
