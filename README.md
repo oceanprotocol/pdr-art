@@ -6,17 +6,23 @@
 
 <img src="logo-ocean-predictoor-black-bk.png" width="300" />
 
+<img src="logo-ocean-predictoor.png" width="300" />
+
 ### Png Logo, without "Ocean"
 
 <img src="logo-predictoor-white-bk.png" width="300" />
 
 <img src="logo-predictoor-black-bk.png" width="300" />
 
+<img src="logo-predictoor.png" width="300" />
+
 ### Png Favicon
 
 <img src="favicon-predictoor-white-bk.png" width="90" />
 
 <img src="favicon-predictoor-black-bk.png" width="90" />
+
+<img src="favicon-predictoor.png" width="90" />
 
 ### SVG versions
 
