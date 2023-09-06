@@ -14,3 +14,7 @@
 
 <img src="favicon-white.png" width="90" />
 
+### Gslides versions
+
+[Here](https://docs.google.com/presentation/d/18D5b16p9re0g-IyZ5h0Db3Qb9zcLcmJGg4NwalN2h3g/edit#slide=id.g20f5357f625_0_1666)
+
