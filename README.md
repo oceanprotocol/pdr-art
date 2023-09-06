@@ -2,7 +2,7 @@
 
 ### Logo, including "Ocean"
 
-<img src"logo-ocean-predictoor-white-bk.png" width="300" />
+<img src="logo-ocean-predictoor-white-bk.png" width="300" />
 
 <img src="logo-ocean-predictoor-black-bk.png" width="300" />
 
